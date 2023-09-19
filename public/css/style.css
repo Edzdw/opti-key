@@ -648,7 +648,7 @@ header .mobile-menu {
 
 .about h2 {
   align-self: flex-start;
-  font-size: 70px;
+  font-size: 40px;
   line-height: 80px;
   margin-top: 45px;
   margin-left: 40px;
@@ -692,7 +692,7 @@ header .mobile-menu {
 
 
 .about .infos ul li > span > span span:first-child {
-  color: #fff ;
+  color: #ffb400 ;
   margin-right: 7px;
 }
 

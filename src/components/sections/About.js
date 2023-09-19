@@ -91,7 +91,7 @@ const About = () => {
                   </span>
                 </span>
               </li>
-              {/* <li>
+              <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Accomplishments :</span>
@@ -100,7 +100,7 @@ const About = () => {
                     <span>Building 833 agency & 99 Agency leaders at the end of 31 July 2022.</span>
                   </span>
                 </span>
-              </li> */}
+              </li>
             </ul>
           </div>
         </div>

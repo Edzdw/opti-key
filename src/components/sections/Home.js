@@ -6,17 +6,17 @@ const Home = () => {
           <h1>
             <span>
               <span className="animated-layer">
-                Một sản phẩm <span> tài chính </span>
+                Welcome<span>.</span>
               </span>
             </span>
             <span className="position-relative">
-              <span className="animated-layer">Thuần tự nhiên nương theo</span>
+              <span className="animated-layer">To</span>
               <span className="intro animated-layer">
-                
+                "Beyond a Simple Bot Trade - Your Gateway to Infinite Opportunities!"
               </span>
             </span>
             <span>
-              <span className="animated-layer"> quy luật vận hành hình sin</span>
+              <span className="animated-layer">Infinity EA</span>
             </span>
           </h1>
         </div>

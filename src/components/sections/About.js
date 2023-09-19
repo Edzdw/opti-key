@@ -71,7 +71,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Địa chỉ :</span>
-                    <span>Can Tho, HCMC</span>
+                    <span>HCMC</span>
                   </span>
                 </span>
               </li>

@@ -21,12 +21,12 @@ const About = () => {
           <h2>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                OM Group
+                Alex
               </span>
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Cộng đồng OM
+                Trần Tường Thụy
               </span>
             </span>
           </h2>
@@ -34,30 +34,39 @@ const About = () => {
             <ul>
               <li>
                 <span>
-                  <span className="content-containers  animated-layer fade-in-up-animation fadeInUp wow">
-                    <div class = "infos_contents">
-                    Sự vận hành vạn vật luôn tuân theo các nguyên lý của tự nhiên… Khi tĩnh lặng thì tự khắc sẽ cảm nhận được về chân lý, mà chân lý luôn là 
-                    </div>
-
-                    <div class = "infos_contents">
-                    những điều rất đơn giản và cũng rất giản dị… Quy Luật Tài chính cũng như thế Nó chỉ là phương tiện nó có thể đưa bạn vào vùng tối tăm,  
-                    </div>
-
-                    <div class = "infos_contents">
-                    hoặc cũng có thể đưa bạn đến vùng ánh sáng êm dịu, quan trọng là góc nhìn của bạn đối với Nó như thế nào mà thôi… 
-                    </div>
-
-                    <div class = "infos_contents">
-                    Nếu Bạn được cam kết đến vùng ánh sáng êm dịu thì Bạn có cam kết lại … để rồi từng ngày sự hòa hợp luôn được tốt hơn !!!
-                    </div>
-
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>Kinh nghiệm :</span>
+                    <span>20 năm trong lĩnh vực đào tạo  </span>
+                    <p>& kèm cặp tài chính & bảo hiểm cá nhân</p>
                   </span>
                 </span>
               </li>
-             
-            
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>Quốc tịch :</span>
+                    <span>VietNam</span>
+                  </span>
+                </span>
+              </li>
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>Chức vụ:</span>
+                    <span>RD (Regional Director, FWD)</span>
+                  </span>
+                </span>
+              </li>
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>Ngôn ngữ :</span>
+                    <span>Tiếng anh, Tiếng Việt</span>
+                  </span>
+                </span>
+              </li>
             </ul>
-            {/* <ul>
+            <ul>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
@@ -82,7 +91,7 @@ const About = () => {
                   </span>
                 </span>
               </li>
-              <li>
+              {/* <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Accomplishments :</span>
@@ -91,8 +100,8 @@ const About = () => {
                     <span>Building 833 agency & 99 Agency leaders at the end of 31 July 2022.</span>
                   </span>
                 </span>
-              </li> 
-            </ul> */}
+              </li> */}
+            </ul>
           </div>
         </div>
         {/* INFO ENDS */}
@@ -120,7 +129,7 @@ const About = () => {
               <span>
                 <i className="devicon-wordpress-plain" />
               </span>
-              <h4>Kiểm soát AI</h4>
+              <h4>Tự động giao dịch</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
@@ -211,7 +220,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Thành tựu 1</h4>
+                  <h4>Infinity 1</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>10 2022</span>
@@ -224,48 +233,11 @@ const About = () => {
               </div>
             </li>
             {/* TIMELINE ITEM ENDS */}
-
-            {/* TIMELINE ITEM STARTS */}
-            <li>
-              <div className="animated-layer fade-in-down-animation fadeInUp wow">
-                <div className="experience">
-                  <h4>Thành tựu 2</h4>
-                  <p>
-                    <i className="fa-regular fa-clock" />
-                    <span>12 2022</span>
-                  </p>
-                  <p>
-                    <i className="fa-regular fa-building" />
-                    <span>Giao dịch 2 chiều</span>
-                  </p>
-                </div>
-              </div>
-            </li>
-            {/* TIMELINE ITEM ENDS */}
-
-            {/* TIMELINE ITEM STARTS */}
-            <li>
-              <div className="animated-layer fade-in-down-animation fadeInUp wow">
-                <div className="education">
-                  <h4>Thành tựu 3</h4>
-                  <p>
-                    <i className="fa-regular fa-clock" />
-                    <span>3 2023</span>
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-building-columns" />
-                    <span>Tự Xóa Lệnh</span>
-                  </p>
-                </div>
-              </div>
-            </li>
-            {/* TIMELINE ITEM ENDS */}
-
             {/* TIMELINE ITEM STARTS */}
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Thành tựu 4</h4>
+                  <h4>Infinity 4</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>4 2023</span>
@@ -278,12 +250,28 @@ const About = () => {
               </div>
             </li>
             {/* TIMELINE ITEM ENDS */}
-            
+            {/* TIMELINE ITEM STARTS */}
+            <li>
+              <div className="animated-layer fade-in-down-animation fadeInUp wow">
+                <div className="experience">
+                  <h4>Infinity 2</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>12 2022</span>
+                  </p>
+                  <p>
+                    <i className="fa-regular fa-building" />
+                    <span>Giao dịch 2 chiều</span>
+                  </p>
+                </div>
+              </div>
+            </li>
+            {/* TIMELINE ITEM ENDS */}
             {/* TIMELINE ITEM STARTS */}
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Thành tựu EA</h4>
+                  <h4>Infinity EA</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>2023+</span>
@@ -296,7 +284,23 @@ const About = () => {
               </div>
             </li>
             {/* TIMELINE ITEM ENDS */}
-            
+            {/* TIMELINE ITEM STARTS */}
+            <li>
+              <div className="animated-layer fade-in-down-animation fadeInUp wow">
+                <div className="education">
+                  <h4>Infinity 3</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>3 2023</span>
+                  </p>
+                  <p>
+                    <i className="fa-solid fa-building-columns" />
+                    <span>Tự Xóa Lệnh</span>
+                  </p>
+                </div>
+              </div>
+            </li>
+            {/* TIMELINE ITEM ENDS */}
             <li />
           </ol>
         </div>

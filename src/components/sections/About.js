@@ -21,12 +21,12 @@ const About = () => {
           <h2>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Alex
+                LisaBB
               </span>
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Trần Tường Thụy
+                Nữ Hoàng Sân Khấu Điện Ảnh 2019
               </span>
             </span>
           </h2>
@@ -94,7 +94,7 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Accomplishments :</span>
+                    <span>Thành tựu :</span>
                     <span>Building new Market & new GA in Mekong Delta</span>
                     <p>Building 10 Zone Head currently.</p>
                     <span>Building 833 agency & 99 Agency leaders at the end of 31 July 2022.</span>

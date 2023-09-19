@@ -48,16 +48,17 @@ function Signup({ isOpen, toggle }) {
           localStorage.setItem("email", email);
           localStorage.setItem("access_token", response.data.access_token);
           window.location.reload();
-        }
-      })
-      .catch((error) => {
-        if (error.response.status == 403) {
+        } else if (error.response.status == 403) {
           normalAlert("Email đã tồn tại trong hệ thống, vui lòng thử lại!", "error");
         } else if (error.response.status == 402) {
           normalAlert("Người giới thiệu không tồn tại trong hệ thống, vui lòng thử lại!", "error");
         } else {
           normalAlert("Có lỗi xảy ra, vui lòng thử lại sau!", "error");
         }
+      })
+      .catch((error) => {
+        console.log("error", error);
+        localStorage.clear();
       });
 
   }
@@ -76,32 +77,35 @@ function Signup({ isOpen, toggle }) {
     <>
       <Modal isOpen={isOpen} toggle={toggle}>
         <div className=" modal-header">
-          <h5 className=" modal-title text-black" id="exampleModalLabel">
-            Đăng ký tài khoản
+          <h6 className="modal-sub-title" id="">
+            Đăng Nhập
+          </h6>
+          <h5 className=" modal-main-title" id="exampleModalLabel">
+            Đăng Ký
           </h5>
         </div>
         <ModalBody style={{ color: "black", display: "flex", flexDirection: "column", gap: "20px" }}>
-          <input type="text" id="lastName" placeholder="Nhập họ..." value={lastName} style={{ width: "100%" }}
+          <input class="form-field" type="text" id="lastName" placeholder="Nhập họ..." value={lastName} style={{ width: "100%" }}
             onChange={(e) => {
               setLastName(e.target.value);
             }}
           />
-          <input type="text" id="firstName" placeholder="Nhập tên..." value={firstName} style={{ width: "100%" }}
+          <input class="form-field" type="text" id="firstName" placeholder="Nhập tên..." value={firstName} style={{ width: "100%" }}
             onChange={(e) => {
               setFirstName(e.target.value);
             }}
           />
-          <input type="email" id="email" placeholder="Nhập email..." value={email} style={{ width: "100%" }}
+          <input class="form-field" type="email" id="email" placeholder="Nhập email..." value={email} style={{ width: "100%" }}
             onChange={(e) => {
               setEmail(e.target.value);
             }}
           />
-          <input type="password" id="password" placeholder="Nhập mật khẩu..." value={password} style={{ width: "100%" }}
+          <input class="form-field" type="password" id="password" placeholder="Nhập mật khẩu..." value={password} style={{ width: "100%" }}
             onChange={(e) => {
               setPassword(e.target.value);
             }}
           />
-          <input type="text" id="refferal" placeholder="Nhập người giới thiệu..." value={refferal} style={{ width: "100%" }}
+          <input class="form-field" type="text" id="refferal" placeholder="Nhập người giới thiệu..." value={refferal} style={{ width: "100%" }}
             onChange={(e) => {
               setRefferal(e.target.value);
             }}
@@ -109,7 +113,7 @@ function Signup({ isOpen, toggle }) {
         </ModalBody>
         <ModalFooter>
           <Button color="primary" type="button" onClick={handleSignup}>
-            Sign In
+            <span style={{ color: "white" }} > Sign In </span>
           </Button>
         </ModalFooter>
       </Modal>

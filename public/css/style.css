@@ -568,7 +568,7 @@ header .mobile-menu {
 .home > div > div h1 {
   position: relative;
   z-index: 1;
-  font-size: 48px;
+  font-size: 150px;
   font-weight: 800;
   line-height: 150px;
   margin: 0;
@@ -2505,7 +2505,7 @@ header .mobile-menu {
   }
 
   .home > div > div h1 {
-    font-size: 60px;
+    font-size: 90px;
   }
 
   .home > div > div .intro {
@@ -2564,7 +2564,7 @@ header .mobile-menu {
   }
 
   .home > div > div h1 {
-    font-size: 20px;
+    font-size: 45px;
   }
 
   .home > div > div .intro {

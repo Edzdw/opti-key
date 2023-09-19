@@ -36,8 +36,8 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Kinh nghiệm :</span>
-                    <span>20 năm trong lĩnh vực đào tạo  </span>
-                    <p>& kèm cặp tài chính & bảo hiểm cá nhân</p>
+                    <span>Trên 15 năm kinh nghiệm </span>
+                    <p>quản lý và điều hành doanh nghiệp</p>
                   </span>
                 </span>
               </li>
@@ -87,7 +87,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Email :</span>
-                    <span> alexfinance101@outlook.com</span>
+                    <span> optikey786@gmail.com</span>
                   </span>
                 </span>
               </li>
@@ -95,9 +95,9 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Thành tựu :</span>
-                    <span>Building new Market & new GA in Mekong Delta</span>
-                    <p>Building 10 Zone Head currently.</p>
-                    <span>Building 833 agency & 99 Agency leaders at the end of 31 July 2022.</span>
+                    <span>Hơn 10 năm kinh nghiệm về dẫn dắt </span>
+                    <p>truyền cảm hứng cho đội nhóm.</p>
+                    <span>Gương mặt truyền cảm hứng tự tin 2019</span>
                   </span>
                 </span>
               </li>

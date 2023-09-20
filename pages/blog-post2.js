@@ -32,7 +32,7 @@ const BlogPost = () => {
           {/* META ENDS */}
           {/* CONTENT STARTS */}
           <h3>Hướng dẫn Nạp Tiền Vào tài khoản Exness</h3>
-          <iframe width="100%" height="315" src="https://www.youtube.com/embed/xPIMT-Jyekw?si=vPQmYKYYC362zjry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/hUW4GI-znnE?si=odGhVGArEcFtWAK2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           <div className="post-content">
             <p>
               B1: Đăng nhập vào tài khoản Exness của bạn, sau đó chọn Menu và chọn phần Nạp Tiền

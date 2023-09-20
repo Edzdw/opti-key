@@ -32,7 +32,7 @@ const BlogPost = () => {
           {/* META ENDS */}
           {/* CONTENT STARTS */}
           <h3>Hướng dẫn đăng kí tài khoản Exness</h3>
-          <iframe width="100%" height="315" src="https://www.youtube.com/embed/yoxrePKUllw?si=mowr7TN5_y8D9auu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/MDTM8NDXqUI?si=3tAnQD3afvFJAeBf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           <div className="post-content">
             <p>
               Bước 1: Truy cập trang web chính thức của Exness

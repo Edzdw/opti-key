@@ -24,7 +24,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>10-15%</h3>
+              <h3>10%</h3>
               <p>
                 Lợi nhuận<span>hàng tháng</span>
               </p>
@@ -71,7 +71,7 @@ const Facts = () => {
             <div>
               <h3>100+</h3>
               <p>
-                Khách hàng <span>khu vực miền Tây</span>
+                Khách hàng <span></span>
               </p>
             </div>
           </div>

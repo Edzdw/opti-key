@@ -37,7 +37,7 @@ const About = () => {
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Work experience:</span>
                     <span>Over 15 years </span>
-                    <p>Business management and operation</p>
+                    <p style={{marginBottom :  "0px"}} >Business management and operation</p>
                   </span>
                 </span>
               </li>

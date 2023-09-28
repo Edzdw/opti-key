@@ -45,7 +45,8 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Business sector:</span>
-                    <span>Finance, Investment, Real Estate, Trading, Import-Export, Corporate Consulting, Art...</span>
+                    <span>Finance, Investment, Real Estate, Trading, </span>
+                    <p> Import-Export, Corporate Consulting, Art... </p>
                   </span>
                 </span>
               </li>

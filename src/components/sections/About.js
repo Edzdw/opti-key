@@ -44,8 +44,8 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Nationality :</span>
-                    <span>VietNam</span>
+                    <span>Business sector:</span>
+                    <span>Finance, Investment, Real Estate, Trading, Import-Export, Corporate Consulting, Art...</span>
                   </span>
                 </span>
               </li>
@@ -70,20 +70,12 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Address :</span>
-                    <span>HCMC</span>
+                    <span>Living and working:</span>
+                    <span>Vietnam - USA -UAE</span>
                   </span>
                 </span>
               </li>
               
-              <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Email :</span>
-                    <span> optikey786@gmail.com</span>
-                  </span>
-                </span>
-              </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
@@ -93,6 +85,16 @@ const About = () => {
                   </span>
                 </span>
               </li>
+
+              <li>
+                <span>
+                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
+                    <span>Email :</span>
+                    <span> optikey786@gmail.com</span>
+                  </span>
+                </span>
+              </li>
+
             </ul>
           </div>
         </div>

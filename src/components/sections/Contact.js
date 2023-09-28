@@ -21,8 +21,8 @@ const Contact = () => {
           <div className="animated-layer fade-in-down-animation fadeInUp wow">
             <i className="fa fa-phone" />
             <p>
-              <span className="small-text">Phone:</span>
-                0939.79.43.86
+              <span className="small-text">Contact:</span>
+                Ms Lisa BB
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -31,7 +31,7 @@ const Contact = () => {
             <i className="fa fa-location-dot" />
             <p>
               <span className="small-text">Location:</span>
-              HCMC
+                Nationwide
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}

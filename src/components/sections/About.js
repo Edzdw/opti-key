@@ -212,7 +212,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Infinity 1</h4>
+                  <h4>Optikey 1</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>10 2022</span>
@@ -229,7 +229,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Infinity 4</h4>
+                  <h4>Optikey 4</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>4 2023</span>
@@ -246,7 +246,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Infinity 2</h4>
+                  <h4>Optikey 2</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>12 2022</span>
@@ -263,7 +263,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Infinity EA</h4>
+                  <h4>Optikey EA</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>2023+</span>
@@ -280,7 +280,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Infinity 3</h4>
+                  <h4>Optikey 3</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>3 2023</span>

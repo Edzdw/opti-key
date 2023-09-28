@@ -16,7 +16,7 @@ const Home = () => {
               </span>
             </span>
             <span>
-              <span className="animated-layer">Infinity EA</span>
+              <span className="animated-layer">Optikey</span>
             </span>
           </h1>
         </div>

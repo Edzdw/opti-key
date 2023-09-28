@@ -7,14 +7,14 @@ const Copyright = () => {
         src="assets/separator-copyright.png"
       />
       <div>
-        <span>© {new Date().getFullYear()} Infinity EA</span>
+        <span>© {new Date().getFullYear()} Optikey </span>
         <span>
           Designed By{" "}
           <a
             target="_blank"
             href="https://themeforest.net/user/Codeefly/portfolio"
           >
-            Infinity Developers 
+            Optikey Developers
           </a>
         </span>
         <ul>

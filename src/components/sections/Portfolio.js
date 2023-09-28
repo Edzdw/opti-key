@@ -38,7 +38,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Infinity 1</h4>
+            <h4>Optikey 1</h4>
             <div>
               <ul>
                 <li>
@@ -51,7 +51,7 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-user" /> Developers :
                   </span>
-                  <span>Infinity Team</span>
+                  <span>Optikey Team</span>
                 </li>
                 <li>
                   <span>
@@ -146,7 +146,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Infinity 4</h4>
+            <h4>Optikey 4</h4>
             <div>
               <ul>
                 <li>
@@ -159,7 +159,7 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-user" /> Developers :
                   </span>
-                  <span>Infinity Team</span>
+                  <span>Optikey Team</span>
                 </li>
                 <li>
                   <span>
@@ -203,7 +203,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Infinity 3</h4>
+            <h4>Optikey 3</h4>
             <div>
               <ul>
                 <li>
@@ -216,7 +216,7 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-user" /> Developers :
                   </span>
-                  <span>Infinity Team</span>
+                  <span>Optikey Team</span>
                 </li>
                 <li>
                   <span>
@@ -260,7 +260,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Infinity 2</h4>
+            <h4>Optikey 2</h4>
             <div>
               <ul>
                 <li>
@@ -273,7 +273,7 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-user" /> Developers :
                   </span>
-                  <span>Infinity Team</span>
+                  <span>Optikey Team</span>
                 </li>
                 <li>
                   <span>

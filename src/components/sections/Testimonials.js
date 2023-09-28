@@ -24,7 +24,7 @@ const Testimonials = () => {
               "I have been investing with Infinity from the beginning, and we have had over 10 continuous updates and achieved many positive accomplishments. I hope to have even more success in the future."
               </span>
               <span className="person">Fury</span>
-              <span className="job">Client - Infinity EA user</span>
+              <span className="job">Client - Optikey Client Users</span>
             </p>
             <img src="assets/testimonials/testimonial-2.jpg" alt="" />
           </div>

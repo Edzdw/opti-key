@@ -83,7 +83,7 @@ const About = () => {
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Accomplishment:</span>
                     <span>Over 10 years of leadership experience</span>
-                    <p>Confident and Inspiring Face of 2019</p>
+                    <p style={{marginBottom :  "0px"}} >Confident and Inspiring Face of 2019</p>
                   </span>
                 </span>
               </li>

@@ -11,7 +11,7 @@ const BlogPost = () => {
         <i className="fa-solid fa-arrow-left"></i>
       </a>
       <div className="blog-content">
-        <h1>Nạp tiền</h1>
+        <h1>Deposit</h1>
         {/* ARTICLE STARTS */}
         <div className="main-post">
           {/* META STARTS */}
@@ -26,27 +26,26 @@ const BlogPost = () => {
             </div>
             <div className="d-flex align-items-center">
               <i className="fa-regular fa-comments" />
-              <span>Hướng dẫn</span>
+              <span>Guide</span>
             </div>
           </div>
           {/* META ENDS */}
           {/* CONTENT STARTS */}
-          <h3>Hướng dẫn Nạp Tiền Vào tài khoản Exness</h3>
+          <h3>Guide to Depositing Funds into Your Exness Account.</h3>
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/hUW4GI-znnE?si=odGhVGArEcFtWAK2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           <div className="post-content">
             <p>
-              B1: Đăng nhập vào tài khoản Exness của bạn, sau đó chọn Menu và chọn phần Nạp Tiền
+              Step 1: Log in to your Exness account, then select Menu and choose the Deposit Funds section.
             </p>
             <p>
-              B2: Chọn phương thức nạp tiền phù hợp với bạn, ở trường hợp này chọn VIETQR như trong clip sau đó chọn tài khoản mà bạn muốn nạp tiền vào
+              Step 2: Choose the deposit method that suits you, in this case, select VIETQR as shown in the video, then choose the account you want to deposit funds into.
             </p>
             <p>
-              B3: Chọn ngân hàng mà bạn sử dụng để chuyển tiền, sau đó lưu mà QR như trong clip và tiến hành thanh toán
+              Step 3: Select the bank you use for the transfer, then save the QR code as shown in the video and proceed with the payment.
             </p>
 
             <p>
-              Cuối cùng, sau khi đã hoàn thành tất cả các bước, hãy chờ đợi hế thống Exness kiểm tra giao dịch, lưu ý không load lại trang trong suốt quá trình này cho tới khi giao diện được tự 
-              động chuyển về tài khoản của bạn. Chúc bạn thành công
+               Finally, after completing all the steps, please wait for the Exness system to verify the transaction. Note not to refresh the page during this process until the interface automatically switches back to your account. Wishing you success.
             </p>
           </div>
           {/* CONTENT ENDS */}

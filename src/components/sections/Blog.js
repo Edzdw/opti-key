@@ -8,7 +8,7 @@ const Blog = () => {
         <h3>
           <span>
             <span className="animated-layer fade-in-left-animation fadeInUp wow">
-              Hướng dẫn
+              Blog
             </span>
           </span>
         </h3>
@@ -26,10 +26,10 @@ const Blog = () => {
               </span>
               <div className="content">
                 <span className="title">
-                  Hướng dẫn tạo tài khoản Exness.
+                  Guide to Creating an Exness Account.
                 </span>
                 <p>
-                  Hướng dẫn đăng kí tài khoản giao dịch Exness
+                  Guide to Registering an Exness Trading Account.
                 </p>
                 <div className="meta d-flex align-items-center">
                   <div className="d-flex align-items-center">
@@ -57,10 +57,10 @@ const Blog = () => {
               </span>
               <div className="content">
                 <span className="title">
-                  Hướng dẫn nạp tiền vào tài khoản Exness
+                  Guide to Depositing Funds into Your Exness Account
                 </span>
                 <p>
-                  Hướng dẫn nạp tiền vào tài khoản giao dịch Exness Thông qua VietQR
+                  Instructions for Depositing Funds into Your Exness Trading Account Using VietQR.
                 </p>
                 <div className="meta d-flex align-items-center">
                   <div className="d-flex align-items-center">
@@ -86,10 +86,10 @@ const Blog = () => {
               </span>
               <div className="content">
                 <span className="title">
-                  Hướng dẫn chuyển tiền nội bộ Exness
+                  Guide to Internal Fund Transfers at Exness.
                 </span>
                 <p>
-                  hướng dẫn chuyển tiền nội bộ giữa các tài khoản Exness
+                  Guide to Internal Fund Transfers Between Exness Accounts.
                 </p>
                 <div className="meta d-flex align-items-center">
                   <div className="d-flex align-items-center">

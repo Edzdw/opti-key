@@ -11,7 +11,7 @@ const BlogPost = () => {
         <i className="fa-solid fa-arrow-left"></i>
       </a>
       <div className="blog-content">
-        <h1>Chuyển nội bộ </h1>
+        <h1>Internal Transfer </h1>
         {/* ARTICLE STARTS */}
         <div className="main-post">
           {/* META STARTS */}
@@ -22,7 +22,7 @@ const BlogPost = () => {
             </div>
             <div className="d-flex align-items-center">
               <i className="fa-solid fa-tag" />
-              <span>Chuyển tiền</span>
+              <span>Tranfers</span>
             </div>
             <div className="d-flex align-items-center">
               <i className="fa-regular fa-comments" />
@@ -31,21 +31,21 @@ const BlogPost = () => {
           </div>
           {/* META ENDS */}
           {/* CONTENT STARTS */}
-          <h3>Hướng dẫn chuyển tiền nội bộ giữa các tài khoản Exness</h3>
+          <h3>Guide to Internal Fund Transfers Between Exness Accounts</h3>
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/hUW4GI-znnE?si=odGhVGArEcFtWAK2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           <div className="post-content">
             <p>
-              B1: Đăng nhập vào tài khoản Exness của bạn, chọn tài khoản mà bạn muốn chuyển tiền nội bộ sau đó nhấn "Chuyển Tiền"
+              Step 1: Log in to your Exness account, select the account you want to perform an internal fund transfer from, then click on 'Transfer Funds'.
             </p>
             <p>
-              B2: Ở giao diện chọn phương thức, chọn mục "Chuyển đến một người dùng khác" sau đó nhập số ID và Email dùng để tạo tài khoản Exness của người nhận
+              Step 2: In the interface, select the method, choose 'Transfer to another user,' then enter the recipient's ID and the email used to create their Exness account.
             </p>
             <p>
-              B3: Nhập số tiền mà bạn muốn chuyển, sau đó bấm "Xác Nhận" và chờ hệ thống gửi mã OTP về số điện thoại của bạn - sau đó nhập mã OTP và bấm Hoàn Tất.
+              Step 3: Enter the amount you want to transfer, then click 'Confirm' and wait for the system to send an OTP code to your phone - then enter the OTP code and click 'Complete'.
             </p>
 
             <p>
-              Sau khi hoàn thành tất cả các bước trên, Exness sẽ tự động chuyển tiền từ tài khoản của bạn đến ID nhận. Chúc bạn thành công !!
+               After completing all the steps above, Exness will automatically transfer the funds from your account to the recipient's ID. Best of luck!
             </p>
           </div>
           {/* CONTENT ENDS */}

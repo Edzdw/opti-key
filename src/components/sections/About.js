@@ -26,7 +26,7 @@ const About = () => {
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Nữ Hoàng Sân Khấu Điện Ảnh 2019
+                The Queen of Film and Stage 2019
               </span>
             </span>
           </h2>
@@ -35,16 +35,16 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Kinh nghiệm :</span>
-                    <span>Trên 15 năm kinh nghiệm </span>
-                    <p>quản lý và điều hành doanh nghiệp</p>
+                    <span>Work experience:</span>
+                    <span>Over 15 years </span>
+                    <p>Business management and operation</p>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Quốc tịch :</span>
+                    <span>Nationality :</span>
                     <span>VietNam</span>
                   </span>
                 </span>
@@ -52,7 +52,7 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Chức vụ:</span>
+                    <span>Position:</span>
                     <span>RD (Regional Director, FWD)</span>
                   </span>
                 </span>
@@ -60,8 +60,8 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Ngôn ngữ :</span>
-                    <span>Tiếng anh, Tiếng Việt</span>
+                    <span>Language :</span>
+                    <span>English, VN, ...</span>
                   </span>
                 </span>
               </li>
@@ -70,7 +70,7 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Địa chỉ :</span>
+                    <span>Address :</span>
                     <span>HCMC</span>
                   </span>
                 </span>
@@ -87,10 +87,9 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Thành tựu :</span>
-                    <span>Hơn 10 năm kinh nghiệm về dẫn dắt </span>
-                    <p>truyền cảm hứng cho đội nhóm.</p>
-                    <span>Gương mặt truyền cảm hứng tự tin 2019</span>
+                    <span>Accomplishment :</span>
+                    <span>Over 10 years of leadership experience </span>
+                    <span>Confident and Inspiring Face of 2019</span>
                   </span>
                 </span>
               </li>
@@ -108,7 +107,7 @@ const About = () => {
           <h3>
             <span>
               <span className="animated-layer fade-in-left-animation fadeInUp wow">
-                Tính năng
+                Features
               </span>
             </span>
           </h3>
@@ -122,7 +121,7 @@ const About = () => {
               <span>
                 <i className="devicon-wordpress-plain" />
               </span>
-              <h4>Tự động giao dịch</h4>
+              <h4>Automated Trading</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
@@ -140,7 +139,7 @@ const About = () => {
               <span>
                 <i className="devicon-angularjs-plain" />
               </span>
-              <h4>Phòng chống rủi ro</h4>
+              <h4>Risk Management</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
@@ -148,7 +147,7 @@ const About = () => {
               <span>
                 <i className="devicon-drupal-plain" />
               </span>
-              <h4>Mốc bảo vệ</h4>
+              <h4>Protection level</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -158,7 +157,7 @@ const About = () => {
               <span>
                 <i className="devicon-react-plain" />
               </span>
-              <h4>Phân tích real-time</h4>
+              <h4>Real-time Analysis</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
@@ -166,7 +165,7 @@ const About = () => {
               <span>
                 <i className="devicon-docker-plain" />
               </span>
-              <h4>Phân tích chiến lược</h4>
+              <h4>Strategic Analysis</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -176,7 +175,7 @@ const About = () => {
               <span>
                 <i className="devicon-nodejs-plain" />
               </span>
-              <h4> Vào/thoát lệnh </h4>
+              <h4> Order Entry/Exit </h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
@@ -184,7 +183,7 @@ const About = () => {
               <span>
                 <i className="devicon-sass-plain" />
               </span>
-              <h4>Đa dạng cặp tiền</h4>
+              <h4>Diverse Currency Pairs</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -199,7 +198,7 @@ const About = () => {
           <h3>
             <span>
               <span className="animated-layer fade-in-left-animation">
-                Thành tựu
+                Achievement
               </span>
             </span>
           </h3>
@@ -220,7 +219,7 @@ const About = () => {
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span> Sóng Hồi</span>
+                    <span> One-way Trade</span>
                   </p>
                 </div>
               </div>
@@ -237,7 +236,7 @@ const About = () => {
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Giảm vị thế xấu</span>
+                    <span>Reduce Negative Pos</span>
                   </p>
                 </div>
               </div>
@@ -254,7 +253,7 @@ const About = () => {
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Giao dịch 2 chiều</span>
+                    <span>Two-way Trade</span>
                   </p>
                 </div>
               </div>
@@ -271,7 +270,7 @@ const About = () => {
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>Đang phát triển</span>
+                    <span>More...</span>
                   </p>
                 </div>
               </div>
@@ -288,7 +287,7 @@ const About = () => {
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>Tự Xóa Lệnh</span>
+                    <span>Auto Del Order</span>
                   </p>
                 </div>
               </div>

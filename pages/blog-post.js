@@ -11,7 +11,7 @@ const BlogPost = () => {
         <i className="fa-solid fa-arrow-left"></i>
       </a>
       <div className="blog-content">
-        <h1>Tạo tài khoản</h1>
+        <h1>Create an Account</h1>
         {/* ARTICLE STARTS */}
         <div className="main-post">
           {/* META STARTS */}
@@ -22,28 +22,28 @@ const BlogPost = () => {
             </div>
             <div className="d-flex align-items-center">
               <i className="fa-solid fa-tag" />
-              <span>Đăng kí</span>
+              <span>Register</span>
             </div>
             <div className="d-flex align-items-center">
               <i className="fa-regular fa-comments" />
-              <span>hướng dẫn</span>
+              <span>Guide</span>
             </div>
           </div>
           {/* META ENDS */}
           {/* CONTENT STARTS */}
-          <h3>Hướng dẫn đăng kí tài khoản Exness</h3>
+          <h3>Guide to Creating an Exness Account</h3>
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/MDTM8NDXqUI?si=3tAnQD3afvFJAeBf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           <div className="post-content">
             <p>
-              Bước 1: Truy cập trang web chính thức của Exness
-              <p>Bước 2: Tại giao diện trang chủ, bấm vào mục Đăng Nhập, sau đó chọn Tạo Tài Khoản.</p>
-              <p>Điền các trường cần thiết, sau đó tại mục Mã giới thiệu nhập mã giới thiệu như sau:</p> 
+              Step 1: Visit the official Exness website
+              <p>Step 2: On the homepage interface, click on the Login section, then select Create an Account.</p>
+              <p>Fill in the required fields, then in the Referral Code section, enter the referral code as follows::</p> 
             </p> 
             <p class = "ref-text">
               3hjpuzkltk
             </p>
             <p>
-              Lưu ý: hãy sao chép và dán mã để tránh sai sót. Sau đó bấm tiếp tục, chúc mừng bạn đã tạo thành công tài khoản Exness của bạn
+              Note: Please copy and paste the code to avoid mistakes. Then click continue, congratulations, you have successfully created your Exness account.
             </p>
           </div>
           {/* CONTENT ENDS */}

@@ -7,7 +7,7 @@ const Contact = () => {
         <h3>
           <span>
             <span className="animated-layer fade-in-left-animation fadeInUp wow">
-              Liên Lạc
+              Contact
             </span>
           </span>
         </h3>
@@ -21,7 +21,7 @@ const Contact = () => {
           <div className="animated-layer fade-in-down-animation fadeInUp wow">
             <i className="fa fa-phone" />
             <p>
-              <span className="small-text">Số điện thoại</span>
+              <span className="small-text">Phone:</span>
                 0939.79.43.86
             </p>
           </div>
@@ -30,7 +30,7 @@ const Contact = () => {
           <div className="animated-layer fade-in-up-animation fadeInUp wow">
             <i className="fa fa-location-dot" />
             <p>
-              <span className="small-text">Địa chỉ</span>
+              <span className="small-text">Location:</span>
               HCMC
             </p>
           </div>
@@ -49,7 +49,7 @@ const Contact = () => {
           {/* CONTACT ITEM STARTS */}
           <div className="animated-layer fade-in-up-animation fadeInUp wow">
             <i className="fa fa-share-nodes" />
-            <span className="small-text">Mạng xã hội</span>
+            <span className="small-text">Social</span>
             <ul className="social">
               <li>
                 <a href="#">

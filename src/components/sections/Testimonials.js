@@ -7,7 +7,7 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " Tôi đã đầu tư đều đặn hàng tháng từ tháng 2 năm 2023 với mục tiêu xây dựng tài sản. Tài khoản hiện tại của tôi đã tăng lên đáng kinh ngạc 2000% so với số tiền gửi ban đầu. "
+              "I have been investing consistently since February 2023 with the goal of building wealth. My current account has increased an astonishing 2000% compared to the initial deposit."
               </span>
               <span className="person">Viet Phan</span>
               <span className="job">User - Exness</span>
@@ -21,7 +21,7 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                "Tôi đã đầu tư cùng Infinity từ đầu, và chúng tôi đã có hơn 10 cập nhật liên tục và đạt được nhiều thành tựu tích cực. Tôi hy vọng sẽ có thêm nhiều thành công hơn trong tương lai. "
+              "I have been investing with Infinity from the beginning, and we have had over 10 continuous updates and achieved many positive accomplishments. I hope to have even more success in the future."
               </span>
               <span className="person">Fury</span>
               <span className="job">Client - Infinity EA user</span>

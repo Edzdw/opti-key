@@ -4,6 +4,37 @@ import LinkRef from "./LinkRef";
 import Axios from "axios";
 import { normalAlert } from "./Swal";
 
+
+const home = document.getElementById('home-link');
+const content = document.getElementById('about-link');
+const portfolio = document.getElementById('portfolio-link')
+const contact = document.getElementById('contact-link')
+const Blog = document.getElementById('blog-link')
+const englishButton = document.getElementById('englishButton');
+const spanishButton = document.getElementById('vieButton');
+
+
+
+//btn click event
+englishButton.addEventListener('click', function () {
+    home.innerText = 'Home!';
+    content.innerText = 'About';
+    portfolio.innerText = "Portfolio"
+    contact.innerText = "Contact"
+    Blog.innerText = "Blog"
+});
+
+vieButton.addEventListener('click', function () {
+  home.innerText = 'Trang chủ !';
+  content.innerText = 'Giới Thiệu';
+  portfolio.innerText = "Sản Phẩm"
+  contact.innerText = "Liên Lạc"
+  Blog.innerText = "Hướng dẫn"
+});
+
+
+
+
 const Header = () => {
   const [isSignInModalOpen, setIsSignInModalOpen] = React.useState(false);
   const [isLinkRefModalOpen, setIsLinkRefModalOpen] = React.useState(false);
@@ -89,6 +120,10 @@ const Header = () => {
           <p>
             Email :<span> optikey786@gmail.com </span>
           </p>
+
+        <button id="englishButton">Tiếng Anh</button>
+        <button id="vieButton">Tiếng Tây Ban Nha</button>
+
         </div>
         {/* FREELANCE ENDS */}
       </div>

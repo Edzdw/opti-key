@@ -2057,6 +2057,18 @@ span.sign-out {
   }
 }
 
+
+@media (min-width: 1180px) {
+
+	.home > div > div h1 > span > span:not(.intro) {
+		font-size:32px;
+	}
+	.about .infos ul li > span > span {
+		width:400px;
+	}
+	
+}
+
 @media (max-width: 1024px) {
   section {
     min-height: initial;

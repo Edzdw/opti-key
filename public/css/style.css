@@ -2058,16 +2058,7 @@ span.sign-out {
 }
 
 
-@media (min-width: 1100px) {
 
-	.home > div > div h1 {
-		font-size: 32px;
-	}
-	.about .infos ul li > span > span {
-		width: 400px;
-	}
-	
-}
 
 @media (max-width: 1024px) {
   section {

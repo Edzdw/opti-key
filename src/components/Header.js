@@ -14,8 +14,8 @@ const Header = () => {
   const [email, setEmail] = React.useState("");
 
   const toggleSignInModal = () => {
-    // setIsSignInModalOpen(!isSignInModalOpen);
-    window.location.href("https://dashboard.opti-key.com")
+    setIsSignInModalOpen(!isSignInModalOpen);
+    // window.location.href("https://dashboard.opti-key.com")
   };
 
   const toggleLinkRefModal = () => {
@@ -82,7 +82,7 @@ const Header = () => {
                 <span id="blog-link">Blog</span>
               </li>
               <li>
-                {email ? <span id="network-link">Network</span> : <span id="sign-in" onClick={toggleSignInModal}>Sign In</span>}
+                  <span> <a href="https://dashboard.opti-key.com" id="sign-in">Sign In</a> </span>
               </li>
             </ul>
           </nav>

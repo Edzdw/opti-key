@@ -517,7 +517,21 @@ header .header-inner .menu ul li:not(:last-child) {
   margin-right: 35px;
 }
 
-header .header-inner .menu ul li span {
+#sign-in {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  transition: .3s;
+  font-weight: 500;
+}
+
+#sign-in:hover {
+  color: var(--text-color);
+}
+
+
+header .header-inner .menu ul li span
+ {
   cursor: pointer;
   transition: 0.3s;
   position: relative;

@@ -11,7 +11,8 @@ const Header = () => {
   const [email, setEmail] = React.useState("");
 
   const toggleSignInModal = () => {
-    setIsSignInModalOpen(!isSignInModalOpen);
+    // setIsSignInModalOpen(!isSignInModalOpen);
+    window.location.href("https://dashboard.opti-key.com")
   };
 
   const toggleLinkRefModal = () => {

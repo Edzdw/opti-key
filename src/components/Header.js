@@ -133,11 +133,7 @@ const Header = () => {
               </a>
             </li>
             <li>
-              {email ? <a href="#network">
-                <span>Network</span>
-              </a> : <a href="#network">
-                <span id="sign-in" onClick={toggleSignInModal}>Sign In</span>
-              </a>}
+                <span> <a href="https://dashboard.opti-key.com" id="sign-in">Sign In</a> </span>
             </li>
           </ul>
         </div>
